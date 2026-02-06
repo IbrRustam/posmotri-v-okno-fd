@@ -325,7 +325,7 @@ ol {
 
 /* Кастомный скроллбар */
 .custom-scrollbar::-webkit-scrollbar {
-  width: 4px;
+  width: 2px;
 }
 
 .custom-scrollbar::-webkit-scrollbar-track {
