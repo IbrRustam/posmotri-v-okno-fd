@@ -193,8 +193,8 @@ ol {
 }
 
 .button:active {
-  background-color: #545050;
   text-decoration: none;
+  background-color: #545050;
 }
 
 .button:focus {
@@ -258,7 +258,7 @@ ol {
 }
 
 .content__card-link_current {
-  background-color: #545050;  
+  background-color: #545050;
 }
 
 .content__card-link:hover {
@@ -266,8 +266,8 @@ ol {
 }
 
 .content__card-link:active {
-  background-color: #545050;  
   text-decoration: none;
+  background-color: #545050;
 }
 
 .content__card-link:focus {
